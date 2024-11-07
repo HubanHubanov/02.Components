@@ -1,0 +1,60 @@
+#numbers-wrapper {
+    background-color: rgb(164, 152, 152);
+    padding: 20px;
+    width: 300px;
+    height: fit-content;
+    margin: 0 auto;
+}
+
+.num {
+    border-radius: 20px;
+    margin: 5px;
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+
+.blue {
+    background-color: darkblue;
+}
+
+.red {
+    background-color: rgb(161, 19, 19);
+}
+
+.green {
+    background-color: green;
+}
+
+.border-black {
+    border: 2px solid red;
+    border-radius: 20px;
+    margin: 10px 0;
+}
+
+.wrapper {
+    width: 300px;
+    height: 10px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.wrapper button:hover {
+    cursor: pointer;
+    background: grey;
+    box-shadow: #e6383840 0px 54px 55px, rgba(214, 91, 91, 0.12) 0px -12px 30px, rgba(226, 84, 84, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;;
+}
+
+.random-red {
+    border: 3px solid red;
+    border-radius: 50px;
+    text-align: center;
+    }
+
+.random-green {
+    border: 3px solid green;
+    border-radius: 10px;
+    text-align: center;
+}
+
+
